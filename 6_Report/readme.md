@@ -35,11 +35,14 @@ This application was developed utilising information obtained from a variety of 
 The location of the wiper is shown by an LED, which returns to its original position after cleaning the windsheet of a car.
 
 # SWOT ANALYSIS
+
 ![SWOT-ANALYSIS-OF-THE-AUTOMOTIVE-INDUSTRY-1024x576](https://user-images.githubusercontent.com/102659131/168467602-4f52eacc-adb5-4701-b0e3-82b271baec62.png)
 
 
 # TABLE FOR REQUIREMENTS
+
 ## HIGH LEVEL REQUIREMENTS
+
 | ID | DESCRIPTION |	REQUIREMENTS |	STATUS |
 | ---| :-----------| :-------------| :-------|
 | HR001 |	SSD or HARD DRIVE |	1GB TO 20 GB |	IMPLEMENTED |
@@ -56,19 +59,29 @@ The location of the wiper is shown by an LED, which returns to its original posi
 
 
 # BLOCK DIAGRAM
+
+
 ![BLOCK DIAGRAM](https://user-images.githubusercontent.com/102659131/168467829-925e0b0f-de24-4425-a5ff-898735304359.png)
 
 
+
 SIMULATION DIAGRAM
+
+
 ![WhatsApp Image 2022-05-15 at 12 21 17 PM (1)](https://user-images.githubusercontent.com/102659131/168467912-8a0d959d-adce-482f-8600-7feceecbf4be.jpeg)
 
 
+
 CAR WIPER CONTROL SYSTEM
+
+
 ![WhatsApp Image 2022-05-15 at 12 18 56 PM](https://user-images.githubusercontent.com/102659131/168467925-f732c3ac-ae9f-4de1-8a9c-fe9588d075f2.jpeg)
 
 
 
+
 # Test Plan
+
 ## High Level Test Plan
 
 | Test ID |	Description |	Exp I/P |	Exp O/P |	Status |
