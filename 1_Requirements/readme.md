@@ -18,6 +18,21 @@ This application was developed utilising information obtained from a variety of 
 * When you realise the necessity of safety management and begin to take responsibility for your own health while driving in inclement weather.
 * This can be utilised in daily life by the user to track their safety and produce better results in life while travelling by motor vehicle.
 
+# Application
+* It's found in four-wheelers.
+* It's utilised in planes.
+* It's found in six-wheelers.
+* It is used in trains.
+
+# Advantage
+* Power usage is reduced.
+* The operating premise is simple. The setup is straightforward.
+* By offering an On/Off switch, it is possible to run manually or automatically.
+* Because conductive sensors are used, sensor costs are very inexpensive.
+* Free from wear adjustment.
+
+
+
 # How we can do?
 The location of the wiper is shown by an LED, which returns to its original position after cleaning the windsheet of a car.
 
