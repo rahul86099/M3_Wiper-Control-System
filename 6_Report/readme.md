@@ -65,14 +65,14 @@ The location of the wiper is shown by an LED, which returns to its original posi
 
 
 
-SIMULATION DIAGRAM
+# SIMULATION DIAGRAM
 
 
 ![WhatsApp Image 2022-05-15 at 12 21 17 PM (1)](https://user-images.githubusercontent.com/102659131/168467912-8a0d959d-adce-482f-8600-7feceecbf4be.jpeg)
 
 
 
-CAR WIPER CONTROL SYSTEM
+# CAR WIPER CONTROL SYSTEM
 
 
 ![WhatsApp Image 2022-05-15 at 12 18 56 PM](https://user-images.githubusercontent.com/102659131/168467925-f732c3ac-ae9f-4de1-8a9c-fe9588d075f2.jpeg)
