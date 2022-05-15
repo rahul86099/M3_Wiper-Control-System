@@ -1,1 +1,2 @@
-
+# Abstract
+The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.An electric motor drives the wipers on the windshield. The wiper arms are moved by an electric motor connected to a worm gear that provides the necessary force to a long rod. The worm gear can create the force needed to move the wipers at their maximum speed.
