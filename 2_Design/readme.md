@@ -4,25 +4,8 @@
 
 
 
-
-
-
-
-
-
-
-
 # Simulation Diagram
 ![WhatsApp Image 2022-05-15 at 12 21 17 PM](https://user-images.githubusercontent.com/102659131/168463157-9006c75e-6d41-4563-bc07-992885706e53.jpeg)
-
-
-
-
-
-
-
-
-
 
 
 
